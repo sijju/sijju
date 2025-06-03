@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Karthik!]
+Hello World, I'm Karthik
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karthikmutyala/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:karthik.msv1234@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
